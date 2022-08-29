@@ -1,0 +1,3 @@
+download make
+open cmd 
+run the command prompt  "make" in this folder to compile and execute ...
